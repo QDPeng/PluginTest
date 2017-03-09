@@ -1,0 +1,1 @@
+include ':app', ':library', ':plugin-apk', ':instrument-plugin-load', ':dynamic-plugin-load', ':plugin-apk2'
